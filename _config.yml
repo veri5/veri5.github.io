@@ -1,18 +1,5 @@
-sass:
-  sass_dir: assets/css
-
-plugins:
-  - jekyll-autoprefixer
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
 title: Veri5
 description: Rules are not made to be broken
-email: "your.email@gmail.com"
-author: name
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-google_analytics: UA-111111111-1
-twitter:
-  username: 
-  card: summary #keep this to generate a twitter share card
+
+sass:
+  sass_dir: assets/css
