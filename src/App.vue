@@ -1,31 +1,20 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <!-- <TheNavBar /> -->
+
+    <Jumbotron />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+// import TheNavBar from './components/TheNavBar.vue'
+import Jumbotron from './components/Jumbotron.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    // TheNavBar,
+    Jumbotron,
   }
 }
 </script>
-
-<style lang="scss">
-@import "~@/assets/scss/vendors/bootstrap-vue/index";
-@import "~@/assets/scss/vendors/bootstrap-vue/index";
-@import "~@/assets/scss/vendors/bootstrap-vue/index";
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
