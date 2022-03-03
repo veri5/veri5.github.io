@@ -1,19 +1,19 @@
 <template>
   <div id="app">
-    <!-- <TheNavBar /> -->
+    <TheNavBar />
 
     <Jumbotron />
   </div>
 </template>
 
 <script>
-// import TheNavBar from './components/TheNavBar.vue'
+import TheNavBar from './components/TheNavBar.vue'
 import Jumbotron from './components/Jumbotron.vue'
 
 export default {
   name: 'App',
   components: {
-    // TheNavBar,
+    TheNavBar,
     Jumbotron,
   }
 }

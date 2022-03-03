@@ -1,8 +1,10 @@
 <template>
   <div>
-    <!-- As a heading -->
-    <b-navbar variant="dark" type="dark">
-      <b-navbar-brand tag="h1" class="mb-0">Veri5</b-navbar-brand>
+    <b-navbar variant="light" type="light">
+      <b-navbar-brand tag="p" class="mb-0 p-1">
+        <img src="@/assets/logos/40.png" class="mb-1 pr-1" alt="verifive">
+        Verifive
+      </b-navbar-brand>
     </b-navbar>
   </div>
 </template>
