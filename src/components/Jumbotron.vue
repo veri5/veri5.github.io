@@ -34,7 +34,7 @@ export default {
   data() {
     return {
       title: "The Trust Protocol,",
-      slogan: "Rules are not to be broken.",
+      slogan: "Rules are not meant to be broken.",
       message: "Enabling the interoperability layer between multiple roots of trust."
     };
   },
