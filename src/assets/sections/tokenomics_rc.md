@@ -1,0 +1,1 @@
+<img src="media/tokenomics01.svg" class="img-fluid" alt="tokenomics01"/>

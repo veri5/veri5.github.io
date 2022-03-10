@@ -1,0 +1,1 @@
+<img src="media/whitepaper01.jpeg" class="img-fluid" alt="whitepaper01"/>
