@@ -10,7 +10,7 @@ const routes = [
     redirect: { name: 'ComingSoon' } 
   },
   {
-    path: '/',
+    path: '/coming-soon',
     name: 'ComingSoon',
     component: () => import(/* webpackChunkName: "coming-soon." */ '@/views/ComingSoon.vue'),
     meta: {
