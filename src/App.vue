@@ -1,32 +1,22 @@
 <template>
   <div id="app">
-    <TheNavBar />
-    <div id="main" class="my-5">
-      <router-view />
-    </div>
-    <TheFooter />
+    <component :is="activeLayout" />
   </div>
 </template>
 
 <script>
-import TheNavBar from '@/components/TheNavBar.vue'
-import TheFooter from '@/components/TheFooter.vue'
+import { mapState } from 'vuex'
 
 export default {
+  name: 'App',
   components: {
-    TheNavBar,
-    TheFooter
-  }
+    TheBaseLayout: () => import('@/components/layouts/TheBaseLayout.vue'),
+    TheNavLayout: () => import('@/components/layouts/TheNavLayout.vue'),
+  },
+  computed: {
+    ...mapState('app', [
+      'activeLayout',
+    ]),
+  },
 }
 </script>
-
-<style>
-  #app {
-    font-family: roboto,sans-serif;
-    background-color: #f7f8fa!important;
-  }
-
-  #main {
-    padding: 75px 0 75px 0;
-  }
-</style>

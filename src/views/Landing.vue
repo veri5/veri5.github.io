@@ -123,7 +123,7 @@
 import Markdown from '@/components/Markdown.vue'
 
 export default {
-  name: 'LandingPage',
+  name: 'Landing',
   components: {
     Markdown,
   }
