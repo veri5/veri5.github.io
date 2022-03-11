@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20fb25"],{b573:function(e,n,t){"use strict";t.r(n),n["default"]="# Our team of experts\n\nA stellar team of professionals drawing on decades of experience with TradFi, FinTech, DeFi, crypto and cutting-edge technology start-ups."}}]);
+//# sourceMappingURL=chunk-2d20fb25.f2f56ccf.js.map

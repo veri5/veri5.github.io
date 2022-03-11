@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21404d"],{aec6:function(e,i,p){"use strict";p.r(i),i["default"]='<img src="media/whitepaper01.jpeg" class="img-fluid" alt="whitepaper01"/>'}}]);
+//# sourceMappingURL=chunk-2d21404d.bef94f68.js.map

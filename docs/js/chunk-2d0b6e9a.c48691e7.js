@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b6e9a"],{"1ed4":function(s,i,c){"use strict";c.r(i),i["default"]='<img src="media/tokenomics01.svg" class="img-fluid" alt="tokenomics01"/>'}}]);
+//# sourceMappingURL=chunk-2d0b6e9a.c48691e7.js.map

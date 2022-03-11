@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e883d"],{"8a31":function(t,e,n){"use strict";n.r(e),e["default"]='# Join our team\n\nWe are expanding and always on the lookout for exceptional talent. If you think you have what it takes to be on our team, why not check out or careers page.\n\n<a href="https://plutodigital.com/jobs/" class="btn btn-outline-primary rounded-pill" target="_blank_">View Opportunities</a>'}}]);
+//# sourceMappingURL=chunk-2d0e883d.b31ab15e.js.map

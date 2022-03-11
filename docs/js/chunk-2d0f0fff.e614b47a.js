@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0f0fff"],{"9f84":function(e,a,n){"use strict";n.r(a),a["default"]="# Our roadmap for this year\n\nBelow is a breakdown of the YOP 2.0 roadmap and delivery sequence, key features and deliverables coming this year."}}]);
+//# sourceMappingURL=chunk-2d0f0fff.e614b47a.js.map

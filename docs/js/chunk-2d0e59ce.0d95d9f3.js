@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e59ce"],{"94da":function(e,o,t){"use strict";t.r(o),o["default"]="# About Verifive\n\nThe Yield Optimisation Platform (YOP) enables you to interact with the best DeFi protocols across the top blockchains from a clean, simple, educational and easy to use application.\n\n### Our 5 key values"}}]);
+//# sourceMappingURL=chunk-2d0e59ce.0d95d9f3.js.map
