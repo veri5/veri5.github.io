@@ -56,16 +56,24 @@ const router = new VueRouter({
   mode: 'history',
   routes,
   scrollBehavior(to) {
+    // Not required for the Landing page.
+    // if (to.hash) {
+    //   return new Promise((resolve) => {
+    //     setTimeout(() => {
+    //       resolve({
+    //         selector: to.hash,
+    //         offset: { x: 0, y: 60 },
+    //         behavior: 'smooth',
+    //       });
+    //     }, 100);
+    //   });
+    // }
     if (to.hash) {
-      return new Promise((resolve) => {
-        setTimeout(() => {
-          resolve({
-            selector: to.hash,
-            offset: { x: 0, y: 60 },
-            behavior: 'smooth',
-          });
-        }, 100);
-      });
+      return {
+        selector: to.hash,
+        offset: { x: 0, y: 60 },
+        behavior: 'smooth',
+      }
     }
   }
 })

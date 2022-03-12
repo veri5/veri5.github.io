@@ -20,5 +20,8 @@ npm run build
 npm run lint
 ```
 
+### Github-pages dynamic routing
+https://huishun.medium.com/how-to-deploy-a-vue-js-application-with-dynamic-routing-on-github-pages-3d36f4644e54
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

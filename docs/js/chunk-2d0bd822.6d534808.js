@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0bd822"],{"2bfb":function(i,n,a){"use strict";a.r(n),n["default"]='<div id="michal"><a href="https://www.linkedin.com/in/michalbacia/" target="_blank"><img src="media/Linkedin-icon.png" alt="Linkedin"> </a></div>\n<img src="media/Bacia-Michal.png" alt="Bacia-Michal" class="pb-1 img-fluid rounded-circle">\n\n##### Michal Bacia \n\nToken Economist\n\n<style>\n  #michal img {\n    position:absolute;\n    right: 3%;\n    max-width: 25%;\n  }\n</style>'}}]);
+//# sourceMappingURL=chunk-2d0bd822.6d534808.js.map
